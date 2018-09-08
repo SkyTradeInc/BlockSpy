@@ -1,5 +1,8 @@
 # BlockSpy
-Track large ERC20 token deposits to exchanges
+BlockSpy is a tool to track ERC20 tokens transfered over the Ethereum network
+
+# Screenshot
+![screenshot](screenshot.png)
 
 # Add Coins
 data.json
