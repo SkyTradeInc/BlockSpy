@@ -4,8 +4,8 @@ BlockSpy is a live tool to track ERC20 tokens transfered over the Ethereum netwo
 # Screenshot
 ![screenshot](screenshot.png)
 
-# Add Coins
-ERC20 token to search for are located in data.json and are in the following format:
+# Add/Remove Tokens
+ERC20 token information is located in data.json and are in the following format:
 
 ```
 [
