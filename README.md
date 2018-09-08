@@ -1,5 +1,5 @@
 # BlockSpy
-BlockSpy is a live tool to track ERC20 tokens transfered over the Ethereum network. Written in NodeJS
+BlockSpy is a live tool to track ERC20 tokens transfered over the Ethereum network, written in NodeJS
 
 # Screenshot
 ![screenshot](screenshot.png)
